@@ -106,9 +106,9 @@ SecureBank-Pentest/
 
 These issues could lead to:
 
-* Unauthorized admin access 👤
-* Sensitive data exposure 📂
-* Increased attack surface 🧱
+* Unauthorized admin access
+* Sensitive data exposure 
+* Increased attack surface 
 * Potential full application compromise in real environments
 
 ---
