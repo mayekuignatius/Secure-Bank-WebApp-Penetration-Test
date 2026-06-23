@@ -95,11 +95,11 @@ SecureBank-Pentest/
 
 ## 📊 Key Findings 
 
-* 🔓 Weak default credentials (admin/admin)
-* 🕳️ Hidden directories and endpoints discovered
-* 🔐 Restricted admin panel access (403 responses)
-* 🧪 Exposed API surface on port 5000
-* ⚙️ Misconfigured access controls and permissions
+*  Weak default credentials (admin/admin)
+*  Hidden directories and endpoints discovered
+*  Restricted admin panel access (403 responses)
+*  Exposed API surface on port 5000
+*  Misconfigured access controls and permissions
 
 ---
 
@@ -125,14 +125,14 @@ These issues could lead to:
   
 ---
 
-##  what is the purpose of this;
+##  What is the purpose of me doing this;
 
 This project is part of my cybersecurity learning journey focused on:
 
-* Offensive security fundamentals 💻
-* WebApp penetration testing 🕸️
-* OWASP Top 10 practical exposure 🧾
-* Real-world security reporting skills 📑
-
+* Offensive security fundamentals 
+* WebApp penetration testing 
+* OWASP Top 10 practical exposure 
+* Real-world security reporting skills 
+* And in general just to secure Applications
 ---
 
