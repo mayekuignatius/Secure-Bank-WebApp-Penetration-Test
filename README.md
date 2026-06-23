@@ -25,6 +25,24 @@ SecureBank is an intentionally vulnerable banking application designed for secur
 
 ---
 
+## 📁 Repository Structure 🗂️
+
+```
+SecureBank-Pentest/
+│
+├── 01-Reconnaissance/ 🔍
+├── 02-Authentication-Testing/ 🔐
+├── 03-Enumeration/ 🧭
+├── 04-Vulnerability-Analysis/ 🧩
+├── 05-Exploitation/ 💥
+├── 06-Post-Exploitation/ 📊
+├── 07-Reporting/ 📝
+│
+├── screenshots/ 📸
+├── notes/ 🗒️
+└── README.md
+```
+
 ##   Methodology
 
 ### 1. 🔍 Reconnaissance & Enumeration
@@ -103,27 +121,7 @@ These issues could lead to:
 * 🧾 Implement proper RBAC (Role-Based Access Control)
 * 🔐 Secure APIs with authentication tokens
 * 🚷 Disable unnecessary services and directory exposure
-
----
-
-## 📁 Repository Structure 🗂️
-
-```
-SecureBank-Pentest/
-│
-├── 01-Reconnaissance/ 🔍
-├── 02-Authentication-Testing/ 🔐
-├── 03-Enumeration/ 🧭
-├── 04-Vulnerability-Analysis/ 🧩
-├── 05-Exploitation/ 💥
-├── 06-Post-Exploitation/ 📊
-├── 07-Reporting/ 📝
-│
-├── screenshots/ 📸
-├── notes/ 🗒️
-└── README.md
-```
-
+  
 ---
 
 ## 🎯 what is the purpose of this;
