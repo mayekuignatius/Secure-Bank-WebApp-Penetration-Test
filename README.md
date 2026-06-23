@@ -1,5 +1,7 @@
 ## SecureBank Web Application Penetration Test 🔐💳
 
+<img width="1171" height="413" alt="image" src="https://github.com/user-attachments/assets/7942f957-4566-4e9b-82a1-aa1d100f34c4" />
+
 A hands-on penetration testing project carried out against the SecureBank FinTech web application written in .NET and C# running in a controlled lab environment. The goal is to identify security weaknesses, understand their impact, and document practical remediation steps based on real-world attack scenarios.
 
 ---
@@ -134,6 +136,4 @@ This project is part of my cybersecurity learning journey focused on:
 * Real-world security reporting skills 📑
 
 ---
-
-<img width="1171" height="413" alt="image" src="https://github.com/user-attachments/assets/7942f957-4566-4e9b-82a1-aa1d100f34c4" />
 
