@@ -6,7 +6,7 @@ A hands-on penetration testing project carried out against the SecureBank FinTec
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 SecureBank is an intentionally vulnerable banking application designed for security training. This project simulates a real penetration test to explore how attackers could exploit common web application flaws and how defenders can fix them 🛡️.
 
@@ -84,15 +84,15 @@ SecureBank-Pentest/
 
 ## 🛠️ Tools Used
 
-* 🕷️ Burp Suite
-* 🐳 Docker / Docker Compose
-* 🔎 Nmap
-* 🧭 Gobuster
-* 🌐 Browser DevTools
+*  Burp Suite
+*  Docker / Docker Compose
+*  Nmap
+*  Gobuster
+* Browser DevTools
 
 ---
 
-## 📊 Key Findings 🚨
+## 📊 Key Findings 
 
 * 🔓 Weak default credentials (admin/admin)
 * 🕳️ Hidden directories and endpoints discovered
@@ -115,21 +115,21 @@ These issues could lead to:
 
 ## 🛡️ Recommendations
 
-* 🔑 Enforce strong password policies
-* 🚫 Remove default credentials immediately
-* 🔒 Restrict access to sensitive endpoints
-* 🧾 Implement proper RBAC (Role-Based Access Control)
-* 🔐 Secure APIs with authentication tokens
-* 🚷 Disable unnecessary services and directory exposure
+*  Enforce strong password policies
+*  Remove default credentials immediately
+*  Restrict access to sensitive endpoints
+*  Implement proper RBAC (Role-Based Access Control)
+*  Secure APIs with authentication tokens
+*  Disable unnecessary services and directory exposure
   
 ---
 
-## 🎯 what is the purpose of this;
+##  what is the purpose of this;
 
 This project is part of my cybersecurity learning journey focused on:
 
 * Offensive security fundamentals 💻
-* Web application penetration testing 🕸️
+* WebApp penetration testing 🕸️
 * OWASP Top 10 practical exposure 🧾
 * Real-world security reporting skills 📑
 
