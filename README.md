@@ -1,6 +1,6 @@
 ## SecureBank Web Application Penetration Test 🔐💳
 
-<img width="479" height="323" alt="image" src="https://github.com/user-attachments/assets/305e16e0-fef8-46c6-b9f3-367868b28b90" />
+<img width="1233" height="502" alt="image" src="https://github.com/user-attachments/assets/8f6c8f72-3c80-4c85-9947-9482019861de" />
 
 
 A hands-on penetration testing project carried out against the SecureBank FinTech web application written in .NET and C# running in a controlled lab environment. The goal is to identify security weaknesses, understand their impact, and document practical remediation steps based on real-world attack scenarios.
@@ -26,7 +26,7 @@ SecureBank is an intentionally vulnerable banking application designed for secur
 
 ---
 
-## 📁 Repository Structure 🗂️
+## 📁 Repository Structure 
 
 ```
 SecureBank-Pentest/
