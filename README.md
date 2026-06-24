@@ -31,16 +31,16 @@ SecureBank is an intentionally vulnerable banking application designed for secur
 ```
 SecureBank-Pentest/
 │
-├── 01-Reconnaissance/ 🔍
-├── 02-Authentication-Testing/ 🔐
-├── 03-Enumeration/ 🧭
-├── 04-Vulnerability-Analysis/ 🧩
-├── 05-Exploitation/ 💥
-├── 06-Post-Exploitation/ 📊
-├── 07-Reporting/ 📝
+├── 01-Reconnaissance/ 
+├── 02-Authentication-Testing/ 
+├── 03-Enumeration/ 
+├── 04-Vulnerability-Analysis/ 
+├── 05-Exploitation/ 
+├── 06-Post-Exploitation/ 
+├── 07-Reporting/ 
 │
-├── screenshots/ 📸
-├── notes/ 🗒️
+├── screenshots/ 
+├── notes/ 
 └── README.md
 ```
 
@@ -83,7 +83,7 @@ SecureBank-Pentest/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 *  Burp Suite
 *  Docker / Docker Compose
